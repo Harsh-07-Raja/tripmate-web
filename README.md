@@ -11,10 +11,7 @@ cd tripmate-web
 # 2) install
 npm install
 
-# 3) set OpenWeather key (optional for Safety page)
-echo "VITE_OPENWEATHER_KEY=YOUR_KEY_HERE" > .env
-
-# 4) run
+# 3) run
 npm run dev
 ```
 
